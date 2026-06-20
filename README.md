@@ -39,15 +39,6 @@ This project originated from a Systems Engineering course and was later experime
 * Git
 * GitHub
 
-## Repository Structure
-
-.
-├── main
-│   ├── main.c
-│   └── CMakeLists.txt
-├── CMakeLists.txt
-├── README.md
-└── .gitignore
 
 ## Collaboration
 
